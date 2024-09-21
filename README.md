@@ -1,4 +1,4 @@
-# TM_robot-calibration
+# TM_RobotArm_Calibration
 
 Eye-in-Hand Calibration Using Tsai-Lenz Method with TM Robot Arm and Realsense D435
 
@@ -19,7 +19,7 @@ This project implements an eye-in-hand calibration system using a TM Robot Arm a
 
 ## Usage
 
-First, start ROS and connect to the TM_robot robotic arm:
+First, start ROS and connect to the TM robot arm:
 
 ```bash
 $ rosrun tm_driver tm_driver <robot_ip_address>
